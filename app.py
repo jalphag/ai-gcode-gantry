@@ -4,7 +4,7 @@ import numpy as np
 import openai
 
 # Set up the UI layout
-st.title("AI-Vision to G-Code 🤖")
+st.title("AI-Vision to G-Code Pipeline for High-Speed Gantry Systems")
 st.write("Upload a line drawing to extract gantry toolpaths.")
 
 # FIX: Initialize path_payload at the global scope to prevent NameErrors
