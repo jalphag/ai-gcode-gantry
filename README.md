@@ -1,7 +1,7 @@
 # AI-Vision to G-Code: The One-Person Frontier Lab
 
 ## Problem & Insight
-The primary bottleneck in rapid physical prototyping is the translation layer between human ideation and machine execution. Moving a simple sketch to physical hardware usually requires scanning, converting vectors, importing to CAD, generating toolpaths in CAM, and exporting machine instructions. [cite_start]This project addresses a meaningful prototyping bottleneck by collapsing a multi-hour organizational workflow into a 5-second automated pipeline[cite: 12]. 
+The primary bottleneck in rapid physical prototyping is the translation layer between human ideation and machine execution. Moving a simple sketch to physical hardware usually requires scanning, converting vectors, importing to CAD, generating toolpaths in CAM, and exporting machine instructions. This project addresses a meaningful prototyping bottleneck by collapsing a multi-hour organizational workflow into a 5-second automated pipeline. 
 
 By combining local computer vision for precise spatial bounding with a Large Language Model (LLM) acting as a CAM processor, this tool allows users to draw a sketch and instantly compile it into safe, executable G-code for high-speed 2D gantry systems.
 
